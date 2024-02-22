@@ -5,7 +5,7 @@
   const resolvers = require("./resolvers/mergeResolvers");
 const jwt = require("jsonwebtoken")
 
-  
+
 
   //Database Connection
   const URL = `mongodb+srv://aminaaslam985:amina123@cluster0.w7bvzq1.mongodb.net/feetwear-paradise`
